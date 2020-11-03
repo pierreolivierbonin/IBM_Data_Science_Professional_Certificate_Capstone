@@ -6,7 +6,7 @@ In this project, I analyze and compare the data science labour market in Canada 
 Data visualization products created:
 * categorical plots (seaborn)
 * box plots (seaborn)
-* hisograms (seaborn)
+* histograms (seaborn)
 * heatmap (dython)
 * line plot (matplotlib)
 
