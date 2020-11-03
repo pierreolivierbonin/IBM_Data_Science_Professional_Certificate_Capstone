@@ -1,4 +1,5 @@
-# Coursera_Capstone
+# Using Data Science to Understand Data Science: A Canada-U.S. Comparison of the Labour Market
+
 This is my final capstone project to earn the IBM Professional Data Science Certificate.
 
 In this project, I analyze and compare the data science labour market in Canada and the United States.
